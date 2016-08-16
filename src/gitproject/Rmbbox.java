@@ -6,6 +6,7 @@ public class Rmbbox {
 		System.out.println("增加一个新文件");
 		System.out.println("修改一次");
 		System.out.println("主干上修改");
+		System.out.println("分支上修改");
 	}
 
 }
