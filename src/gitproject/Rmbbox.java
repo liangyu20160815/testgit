@@ -3,10 +3,10 @@ package gitproject;
 public class Rmbbox {
 
 	public static void main(String[] args) {
-		System.out.println("Ôö¼ÓÒ»¸öĞÂÎÄ¼ş");
-		System.out.println("ĞŞ¸ÄÒ»´Î");
-		System.out.println("Ö÷¸ÉÉÏĞŞ¸Ä");
-		System.out.println("·ÖÖ§ÉÏĞŞ¸Ä");
+		System.out.println("å¢åŠ ä¸€ä¸ªæ–°æ–‡ä»¶");
+		System.out.println("ä¿®æ”¹ä¸€æ¬¡");
+		System.out.println("ä¸»å¹²ä¸Šä¿®æ”¹");
+		System.out.println("åˆ†æ”¯ä¸Šä¿®æ”¹");
 	}
 
 }
