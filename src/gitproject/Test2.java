@@ -7,6 +7,7 @@ public class Test2 {
 		System.out.print("idea add");
 		System.out.println("");
 		System.out.print("idea second");
+		System.out.print("idea 1111");
 	}
 
 }
