@@ -8,6 +8,8 @@ public class Test2 {
 		System.out.println("");
 		System.out.print("idea second");
 		System.out.println("eclipse 2222");
+		System.out.print("idea 1111");System.out.print("idea second");
+		System.out.println("eclipse 2222");
 		System.out.print("idea 1111");
 	}
 
