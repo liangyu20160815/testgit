@@ -6,6 +6,7 @@ public class Test2 {
 		System.out.println("111");
 		System.out.print("idea add");
 		System.out.print("idea modify");
+		System.out.print("idea delete");
 	}
 
 }
